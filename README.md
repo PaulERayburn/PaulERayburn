@@ -16,7 +16,8 @@ The assembly of code and packages into an initial conceptual platform provides n
 I anticipate releasing this under some version of an open-source copyleft or open-core https://en.wikipedia.org/wiki/Open-core_model; however, the funding model to support ongoing development has yet to be resolved. I would be happy to hear any feedback on the concept.
 If you would like to see a bit of the Shiny dashboard in operation, I have created a short intro video https://youtu.be/XoaTngQFdF8?si=ty-mLD7_rO7kRQB7 We have implemented numerous additional features since that time.
 
-#More about Paul Rayburn
+  # More about Paul Rayburn
+
 I am a certified DAR and Certified Appraisal Reviewer based in the Okanagan Shuswap area of British Columbia, Canada, with over a decade of experience in the real estate valuation industry.
 
 With a background in the production of world-class motor yachts, a field where I honed my appreciation for naval architecture, marine engineering, advanced composites, and project management, I transitioned into real estate appraisal after the 2008 financial crisis reshaped the local boat-building industry, combining my technical expertise with a passion for innovation in advanced valuation methodologies.
