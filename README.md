@@ -20,13 +20,13 @@ If you would like to see a bit of the Shiny dashboard in operation, I have creat
 
 I am a certified DAR and Certified Appraisal Reviewer based in the Okanagan Shuswap area of British Columbia, Canada, with over a decade of experience in the real estate valuation industry.
 
-With a background in the production of world-class motor yachts, a field where I honed my appreciation for naval architecture, marine engineering, advanced composites, and project management, I transitioned into real estate appraisal after the 2008 financial crisis reshaped the local boat-building industry, combining my technical expertise with a passion for innovation in advanced valuation methodologies.
+With a background in the production of world-class motor yachts, a field where I honed my appreciation for naval architecture, marine engineering, advanced composites, and project management, I transitioned into real estate appraisal after the 2008 financial crisis "reshaped" the local boat-building industry. I have combined my broad based prior technical expertise into a new passion for innovation in advanced valuation methods and technology.
 
-My work integrates trusted legacy methodologies with advances in data analytics and emerging technologies, aiming to make appraisal workflows more efficient and evidence-based.
+My work integrates trusted legacy approaches with advances in data analytics and emerging technologies, aiming to make appraisal workflows more efficient and evidence-based.
 
 I am deeply committed to advancing the appraisal profession and invite others in the field to explore Evidence-Based Valuation, a framework championed by George Dell (www.georgedell.com). This approach emphasizes leveraging data and analytics to enhance the reliability of valuation conclusions, bridging the gap between traditional methods and modern tools.
 
-Though not a programmer, I am passionate about collaborating with others to develop and share tools that promote transparency and innovation in the appraisal process. Please reach out and connect if you would like to learn more.
+Though not a programmer by trade, I am passionate about collaborating with others to develop and share tools that promote transparency and innovation in the appraisal process. Please reach out and connect if you would like to learn more.
 <!---
 PaulERayburn/PaulERayburn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
